@@ -19,3 +19,10 @@ The CDC's Behavioral Risk Factor Surveillance System (BRFSS) provides a wealth o
 
 - [**BRFSS Dateset 2014**](http://www.cdc.gov/brfss/annual_data/2014/files/LLCP2014XPT.ZIP)
 - [**2014 Info and Codebook report**](https://www.cdc.gov/brfss/annual_data/annual_2014.html)
+
+
+## Steps
+
+1. EDA.ipynb
+2. HypothesisTesting - LinearRegression.ipynb
+3. HypothesisTesting - LogisticRegression.ipynb
